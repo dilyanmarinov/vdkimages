@@ -1,1 +1,1 @@
-drop table if exists memory.default.test_metajob_two
+drop table if exists memory.default.test_metajob_one
